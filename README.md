@@ -4,7 +4,7 @@ El presente proyecto consiste en la implementación de la capacidad de resolver 
 
 ## Funcionamiento
 - **Modo Manual:** El usuario controla el microbot a través de la botonera proporcionada en la aplicación.
-- **Modo Automático:** Destinado para la resolución del laberinto. El microbot pone en funcionamiento la lógica de navegción implementada y monitoriza su entorno y recorrido en la aplicación, desde la cual se inicia, detiene o resetea dicha lógica. 
+- **Modo Automático:** Destinado para la resolución del laberinto. El microbot pone en funcionamiento la lógica de navegación implementada y monitoriza su entorno y recorrido en la aplicación, desde la cual se inicia, detiene o resetea dicha lógica. 
 
 ## Vista del microbot
 <img src="./Memoria/Fotos/Microbot.png" alt="Microbot" width="400"/>
